@@ -47,7 +47,8 @@ jsproxy_config({
         'b.hehe.workers.dev': 1,
         'b.lulu.workers.dev': 1,
         'b.jsproxy.workers.dev': 1,
-        'weathered-waterfall-433b.gotohuangzhs.workers.dev':2
+        'weathered-waterfall-433b.gotohuangzhs.workers.dev':2,
+        'raspy-grass-ac23.gotohuangzhs.workers.dev':1
       }
     }
   },
