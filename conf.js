@@ -39,7 +39,7 @@ jsproxy_config({
       hidden: true,
       lines: {
         // 收费版（高权重）
-        'node-cfworker.etherdream.com': 4,
+        'node-cfworker.etherdream.com': 1,
 
         // 免费版（低权重，分摊一些成本）
         // 每个账号每天 10 万次免费请求，但有频率限制
@@ -47,7 +47,7 @@ jsproxy_config({
         'b.hehe.workers.dev': 1,
         'b.lulu.workers.dev': 1,
         'b.jsproxy.workers.dev': 1,
-        'weathered-waterfall-433b.gotohuangzhs.workers.dev':2,
+        'weathered-waterfall-433b.gotohuangzhs.workers.dev':1,
         'raspy-grass-ac23.gotohuangzhs.workers.dev':1
       }
     }
